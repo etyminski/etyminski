@@ -1,16 +1,51 @@
-## Hi there 👋
+# Oi, eu sou a Eloisa
 
-<!--
-**etyminski/etyminski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudante de Análise e Desenvolvimento de Sistemas (PUCPR)  
+- Desenvolvedora Jr em formação  
+- Curitiba – PR  
 
-Here are some ideas to get you started:
+Atualmente no 4º período, com foco em aprender na prática e evoluir constantemente na área de Tecnologia da Informação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tecnologias & Conhecimentos
+
+**Programação**
+- Python
+- Java
+- PHP
+
+**Desenvolvimento Web**
+- HTML
+- CSS
+- JavaScript
+
+**Banco de Dados**
+- MySQL
+
+**Metodologias Ágeis**
+- Scrum
+- Kanban
+
+---
+
+## Atualmente estudando
+- Estruturas de dados
+- Desenvolvimento Web
+- Lógica de programação
+- Boas práticas de código
+
+---
+
+## Objetivo
+Conquistar minha primeira oportunidade como Desenvolvedora Jr, aplicando meus conhecimentos técnicos, aprendendo com times experientes e evoluindo como profissional de tecnologia.
+
+---
+
+## 🌍 Idiomas
+  - Inglês (B2)
+
+---
+
+## 📫 Contato
+- Email: etyminski616@gmail.com
