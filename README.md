@@ -20,8 +20,12 @@ Atualmente no 4º período, com foco em aprender na prática e evoluir constante
 - CSS
 - JavaScript
 
-**Banco de Dados**
+**Dados**
 - MySQL
+- Big Data
+
+**IA**
+- Machine Learning
 
 **Metodologias Ágeis**
 - Scrum
