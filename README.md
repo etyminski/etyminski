@@ -34,9 +34,8 @@ Atualmente no 4º período, com foco em aprender na prática e evoluir constante
 ---
 
 ## Atualmente estudando
-- Estruturas de dados
-- Desenvolvimento Web
-- Lógica de programação
+- DevOps/Git
+- Sistema Web Seguros
 - Boas práticas de código
 
 ---
