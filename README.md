@@ -4,18 +4,19 @@
 - Desenvolvedora Jr em formação  
 - Curitiba – PR  
 
-Atualmente no 5º período, com foco em aprender na prática e evoluir constantemente na área de Tecnologia da Informação.
+Atualmente no 5º período, com foco em aprender na prática e evoluir constantemente.
 
 ---
 
 ## Tecnologias & Conhecimentos
 
-**Programação**
+**Backend Dev**
 - Python
 - Java
 - PHP
+- Node.js
 
-**Desenvolvimento Web**
+**Web Dev**
 - HTML
 - CSS
 - JavaScript
@@ -27,20 +28,20 @@ Atualmente no 5º período, com foco em aprender na prática e evoluir constante
 **IA**
 - Machine Learning
 
-**Metodologias Ágeis**
+**Metodologias ágeis**
 - Scrum
 - Kanban
 
 ---
 
-## Atualmente estudando
-- DevOps/Git
+## Estudando
+- DevOps/Git/Docker
 - Sistema Web Seguros
 - Boas práticas de código
 
 ---
 
-## Objetivo
+## Metas
 Conquistar minha primeira oportunidade como Desenvolvedora Jr, aplicando meus conhecimentos técnicos, aprendendo com times experientes e evoluindo como profissional de tecnologia.
 
 ---
