@@ -4,7 +4,7 @@
 - Desenvolvedora Jr em formação  
 - Curitiba – PR  
 
-Atualmente no 4º período, com foco em aprender na prática e evoluir constantemente na área de Tecnologia da Informação.
+Atualmente no 5º período, com foco em aprender na prática e evoluir constantemente na área de Tecnologia da Informação.
 
 ---
 
